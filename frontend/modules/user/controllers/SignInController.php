@@ -222,7 +222,7 @@ class SignInController extends \yii\web\Controller
 
         return $this->render('resetPassword', [
             'model' => $model,
-        ]);zz
+        ]);
     }
 
     /**
